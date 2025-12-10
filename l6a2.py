@@ -7,3 +7,4 @@ print(b!=c)
 
 print(a!=b and b!=c)
 print(a!=b or b!=c)
+id c.isalph():
