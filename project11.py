@@ -6,4 +6,4 @@ if due_amount > 0:
 elif due_amount == 0:
     print("The bill is fully paid. No due amount.")
 else:
-    print(f"Extra amount paid: {due_amount}")
+    print(f"Extra amount paid: {-due_amount}")
